@@ -6,7 +6,7 @@ function DarkVariantExample() {
       <Carousel.Item interval={3000}>
         <img
           className="d-block w-100"
-          src="../img/Main/slider_1.jpg"
+          src="./img/Main/slider_1.jpg"
           alt="First slide"
           
         />
@@ -14,7 +14,7 @@ function DarkVariantExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="../img/Main/slider_2.jpg"
+          src="./img/Main/slider_2.jpg"
           alt="Second slide"
           
         />
@@ -22,7 +22,7 @@ function DarkVariantExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="../img/Main/slider_3.jpg"
+          src="./img/Main/slider_3.jpg"
           alt="Third slide"
           
         />
@@ -30,7 +30,7 @@ function DarkVariantExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="../img/Main/slider_4.jpg"
+          src="./img/Main/slider_4.jpg"
           alt="Third slide"
           
         />
@@ -38,7 +38,7 @@ function DarkVariantExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="../img/Main/slider_5.jpg"
+          src="./img/Main/slider_5.jpg"
           alt="Third slide"
           
         />
