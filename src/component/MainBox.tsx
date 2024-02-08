@@ -53,7 +53,7 @@ function SampleNextArrow(props:ArrowProps) {
       style={{ ...style, display: "block" }}
       onClick={onClick}
     >
-      <img alt="" src="../../img/Main/right_icon.png" style={{width: "100%"}}/>
+      <img alt="" src="./img/Main/right_icon.png" style={{width: "100%"}}/>
     </div>
   );
 }
@@ -67,7 +67,7 @@ function SamplePrevArrow(props:ArrowProps) {
       onClick={onClick}
 
     >
-      <img alt="" src="../../img/Main/left_icon.png" style={{width: "100%"}}/>
+      <img alt="" src="./img/Main/left_icon.png" style={{width: "100%"}}/>
     </div>
   );
 }
