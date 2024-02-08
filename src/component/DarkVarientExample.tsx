@@ -8,7 +8,6 @@ function DarkVariantExample() {
           className="d-block w-100"
           src="./img/Main/slider_1.jpg"
           alt="First slide"
-          
         />
       </Carousel.Item>
       <Carousel.Item>
@@ -16,7 +15,6 @@ function DarkVariantExample() {
           className="d-block w-100"
           src="./img/Main/slider_2.jpg"
           alt="Second slide"
-          
         />
       </Carousel.Item>
       <Carousel.Item>
