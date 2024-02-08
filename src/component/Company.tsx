@@ -25,13 +25,13 @@ const Company = () => {
         <div className='row' style={{margin: "50px auto", width: "1000px", height: "320px"}}>
           
             <div className='col-md-4'>
-            <img alt='' src='img/Company/company-mark01.png' style={{width: "320px", height: "320px"}}/>
+            <img alt='mark1' src='img/Company/company-mark01.png' style={{width: "320px", height: "320px"}}/>
             </div>
             <div className='col-md-4'>
-            <img alt='' src='img/Company/company-mark02.png' style={{width: "320px", height: "320px"}}/>
+            <img alt='mark2' src='img/Company/company-mark02.png' style={{width: "320px", height: "320px"}}/>
             </div>
             <div className='col-md-4'>
-            <img alt='' src='img/Company/company-mark03.png' style={{width: "320px", height: "320px"}}/>
+            <img alt='mark3' src='img/Company/company-mark03.png' style={{width: "320px", height: "320px"}}/>
             </div>
           
         </div>
